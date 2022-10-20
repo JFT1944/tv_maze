@@ -1,0 +1,16 @@
+#littleDivs{
+    padding-top: 50px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 25px;
+    margin: 20px;
+    box-shadow: 10px 10px rgba(0, 0, 0, .5);
+}
+h2{
+    padding-top: 20px;
+}
+p{
+    padding: 5px 0;
+}
+img{
+    border-radius: 20px;
+}
